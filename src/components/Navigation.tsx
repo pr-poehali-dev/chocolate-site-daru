@@ -8,7 +8,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <Icon name="Heart" className="text-chocolate-600" size={32} />
-            <span className="text-2xl font-bold text-chocolate-800">Дарю</span>
+            <span className="text-2xl font-bold text-chocolate-800">Дар'ю</span>
           </div>
 
           <div className="hidden md:flex items-center space-x-8">
